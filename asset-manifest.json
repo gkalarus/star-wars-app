@@ -1,0 +1,19 @@
+{
+  "main.css": "/star-wars-app/static/css/main.da1ea0a2.chunk.css",
+  "main.js": "/star-wars-app/static/js/main.6c09a29d.chunk.js",
+  "main.js.map": "/star-wars-app/static/js/main.6c09a29d.chunk.js.map",
+  "runtime~main.js": "/star-wars-app/static/js/runtime~main.582433d4.js",
+  "runtime~main.js.map": "/star-wars-app/static/js/runtime~main.582433d4.js.map",
+  "static/css/2.5ca9c1b1.chunk.css": "/star-wars-app/static/css/2.5ca9c1b1.chunk.css",
+  "static/js/2.d0e3d789.chunk.js": "/star-wars-app/static/js/2.d0e3d789.chunk.js",
+  "static/js/2.d0e3d789.chunk.js.map": "/star-wars-app/static/js/2.d0e3d789.chunk.js.map",
+  "index.html": "/star-wars-app/index.html",
+  "precache-manifest.d00f9a6b54da774b300194782dee844e.js": "/star-wars-app/precache-manifest.d00f9a6b54da774b300194782dee844e.js",
+  "service-worker.js": "/star-wars-app/service-worker.js",
+  "static/css/2.5ca9c1b1.chunk.css.map": "/star-wars-app/static/css/2.5ca9c1b1.chunk.css.map",
+  "static/css/main.da1ea0a2.chunk.css.map": "/star-wars-app/static/css/main.da1ea0a2.chunk.css.map",
+  "static/media/ARROWCLOSE.svg": "/star-wars-app/static/media/ARROWCLOSE.9f3a719a.svg",
+  "static/media/ARROWOPEN.svg": "/star-wars-app/static/media/ARROWOPEN.4d66597d.svg",
+  "static/media/LOGO.svg": "/star-wars-app/static/media/LOGO.8b6d4945.svg",
+  "static/media/deletePlanet.svg": "/star-wars-app/static/media/deletePlanet.4b823e92.svg"
+}
